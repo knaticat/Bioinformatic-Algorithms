@@ -1,2 +1,2 @@
 # Bioinformatic-Algorithms
-Implementation of Algorithms from Book Compeau, Penzer, Pavel - Bioinformatic algorithms
+Implementation of Algorithms from Book Compeau & Pevzner- Bioinformatic algorithms
